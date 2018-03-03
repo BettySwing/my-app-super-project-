@@ -1,0 +1,16 @@
+/*style.css*/
+body{
+	background: #F7F6E7;
+}
+
+h1 {
+	border: 2px solid black;
+}
+
+title{
+	font-family: 'Lobster', cursive;
+}
+
+.superh1 {
+	background: #C1C0B9;
+}
